@@ -1,0 +1,17 @@
+
+
+
+install pip3
+    ->  check the pip3 --version
+install python2,python3
+    ->  check the python --version
+install opencv-coutrib-python
+install pytesseract
+install flask using command {pip install flask}
+
+
+
+
+
+run pythonfile using this command.
+-->     python3 demoApp.py
